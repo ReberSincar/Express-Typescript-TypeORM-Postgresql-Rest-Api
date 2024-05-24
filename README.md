@@ -1,4 +1,4 @@
-# Invent-Analytics-Case
+# Express Typescript TypeORM Postgresql Rest Api
 
 ## Installation
 
